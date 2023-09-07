@@ -2,7 +2,6 @@
     1195 - Binary Search Tree
     author: rodrig-crzz
 */
-
 #include <stdio.h>
 #include <stdlib.h>
 
