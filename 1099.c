@@ -2,7 +2,6 @@
     1099 - Sum of Consecutive Odd Numbers II
     author: rodrig-crzz
 */
-
 #include <stdio.h>
 
 void organizar(int *, int *);
