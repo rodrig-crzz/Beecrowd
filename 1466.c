@@ -2,7 +2,6 @@
     1466 - Level Order Tree Traversal
     author: rodrig-crzz
 */
-
 #include <stdio.h>
 #include <stdlib.h>
 
