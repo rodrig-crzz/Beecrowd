@@ -3,7 +3,6 @@
     author: rodrig-crzz
 */
 #include <stdio.h>
-#include <stdbool.h>
 
 #define max_students 100000
 #define letters 11
